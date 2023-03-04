@@ -1,1 +1,1 @@
-console.log('kill')
+console.log('hate')
